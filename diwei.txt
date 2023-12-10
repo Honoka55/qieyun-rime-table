@@ -3291,7 +3291,7 @@
 3288	秩	秩紩帙袠柣翐姪妷豑𣗻𧽮𡙮	直一	LVD	drit	ɖit	ɖit	ɖit꜊
 3289	悉	悉厀膝蟋𧀬𦸝䊝僁窸	息七	QVD	sit	sit	sit	sit꜊
 3290	一	一弌壹	於悉	hVD	qit	ʔit	ʔit	ʔit꜊
-3291	七	七漆柒䣛𪄭桼⌸艹大雨𣛺𦸓㯃	親吉	OVD	tshit	tsʰit	tsʰit	tsʰit꜊
+3291	七	七漆柒䣛𪄭桼⿳艹大雨𣛺𦸓㯃	親吉	OVD	tshit	tsʰit	tsʰit	tsʰit꜊
 3292	匹	匹鷝𠯔䏘	譬吉	BVD	phit	pʰit	pʰit	pʰit꜊
 3293	吉	吉趌狤拮𧾢郆洁𤿠	居質	dVD	kit	kit	kit	kit꜊
 3294	暱	暱昵衵䵒䵑䘌㥾	尼質	MVD	nrit	ɳit	ɳit	ɳit꜊
