@@ -33,7 +33,7 @@ function show(rime) {
     if (!性質.includes('增補'))
         toolHTML += `<span class="separator"></span><a href="https://ytenx.org/kyonh/sieux/${rimeIdNum}/" target="_blank">韻典網</a></div>`;
     if (全部字)
-        toolHTML += `<div class="rime-chars"${全部字.length >= 6 ? ' style="min-width: 9.6em"' : ''}>${全部字}</div>`;
+        toolHTML += `<div class="rime-chars"${全部字.length >= 6 ? ' style="min-width: 9.6em"' : ''}>${全部字.replace(/(⿳...)/g,'<span class="rime-ids">$1</span>')}</div>`;
     toolHTML += `</span>`;
     rime.insertAdjacentHTML('afterend', toolHTML);
     let tool = rime.nextElementSibling;

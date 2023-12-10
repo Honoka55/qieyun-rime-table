@@ -1,3 +1,17 @@
+@font-face {
+    font-family: 'jigmo';
+    src: url('JigmoQieyun.woff2') format('woff2');
+}
+.text, th, td:nth-last-of-type(n+25), .rime-chars {
+    font-family: 'jigmo';
+}
+.rime-chars:before {
+    font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
+}
+.rime-ids {
+    letter-spacing: 0;
+    margin-right: 0.2em;
+}
 hanla:after {
     content: " ";
     display: inline;
