@@ -3276,7 +3276,7 @@
 3273	邈	邈藐㦝眊皃毣瞀𢷕瞐	莫角	DED	moeuk	ᵯoˤq	moˤq	mɣɔk꜊
 3274	雹	雹𩅟𢷏跑𩣡䮀骲𩺽䈏瓝瓟㼎謈犦豰窇𥭓𦢊懪㩧	蒲角	CED	boeuk	ᵬoˤq	boˤq	bɣɔk꜊
 3275	璞	璞㩧樸朴㹒攴墣圤颮鞄謈𤆝𥛟㺪𧴤	匹角	BED	phoeuk	ᵱʰoˤq	pʰoˤq	pʰɣɔk꜊
-3276	㱿	㱿毃愨搉確碻𤿩㲉觳燩嶨礐塙𣤇隺犬硞𡴊埆𡇱	苦角	eED	khoeuk	qʰoˤq	qʰoˤq	kʰɣɔk꜊
+3276	㱿	㱿毃愨搉確碻𤿩㲉觳燩嶨礐塙𣤇⿰隺犬硞𡴊埆𡇱	苦角	eED	khoeuk	qʰoˤq	qʰoˤq	kʰɣɔk꜊
 3277	濁	濁擢濯鵫嬥𧃔鐲𢺡㺟鸀蠗鸐𩑂𢢗𩆸㪬	直角	LED	droeuk	ɖoˤq	ɖoˤq	ɖɣɔk꜊
 3278	渥	渥握偓箹幄楃喔鷽葯腛𪑱齷媉𦯏龏𠿟䮸	於角	hED	qoeuk	ʡoˤq	ʡoˤq	ʔɣɔk꜊
 3279	搦	搦掉䚥𧢺搙𧣺	女角	MED	nroeuk	ɳoˤq	ɳoˤq	ɳɣɔk꜊
