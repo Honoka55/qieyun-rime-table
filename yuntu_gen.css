@@ -8,10 +8,6 @@
 .rime-chars:before {
     font-family: Tahoma, -apple-system, "Helvetica Neue", Helvetica, "Nimbus Sans L", Arial, "Liberation Sans", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Wenquanyi Micro Hei", "WenQuanYi Zen Hei", "ST Heiti", SimHei, "WenQuanYi Zen Hei Sharp", sans-serif;
 }
-.rime-ids {
-    letter-spacing: 0;
-    margin-right: 0.2em;
-}
 hanla:after {
     content: " ";
     display: inline;

@@ -125,15 +125,15 @@ from yuntu_history import *
 }
 
 字頭替換字典 = {
-    '⿰隺犬':
-        '<span style="transform: translateX(-0.225em) scaleX(0.55);display: inline-block;">隺</span>' +
-        '<span style="transform: translateX(0.25em) scaleX(0.5);display: inline-block;margin-left: -1em;">犬</span>',
-    '⿳艹大雨':
-        '<span style="transform: translateY(-0.25em) scaleY(0.4);display: inline-block;">芖</span>' +
-        '<span style="transform: translateY(0.225em) scaleY(0.6);display: inline-block;margin-left: -1em;">雨</span>',
-    '𣅝':
-        '<span style="transform: translateY(-0.275em) scaleY(0.4);display: inline-block">冂</span>' +
-        '<span style="transform: translateY(0.225em) scaleY(0.6);display: inline-block;margin-left: -1em">父</span>',
+    # '⿰隺犬':
+    #     '<span style="transform: translateX(-0.225em) scaleX(0.55);display: inline-block;">隺</span>' +
+    #     '<span style="transform: translateX(0.25em) scaleX(0.5);display: inline-block;margin-left: -1em;">犬</span>',
+    # '⿳艹大雨':
+    #     '<span style="transform: translateY(-0.25em) scaleY(0.4);display: inline-block;">芖</span>' +
+    #     '<span style="transform: translateY(0.225em) scaleY(0.6);display: inline-block;margin-left: -1em;">雨</span>',
+    # '𣅝':
+    #     '<span style="transform: translateY(-0.275em) scaleY(0.4);display: inline-block">冂</span>' +
+    #     '<span style="transform: translateY(0.225em) scaleY(0.6);display: inline-block;margin-left: -1em">父</span>',
 }
 
 
